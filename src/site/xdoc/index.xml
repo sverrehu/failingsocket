@@ -1,0 +1,12 @@
+<document>
+    <body>
+        <section name="Introduction">
+
+<p>This package contains a SocketImplFactory that creates TCP and UDP
+sockets that will fail according to programmed rules.  Invaluable for
+testing network robustness, e.g. failover.  See the included
+FailingSocketTest for examples.</p>
+
+        </section>
+    </body>
+</document>

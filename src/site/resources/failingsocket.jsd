@@ -1,0 +1,17 @@
+BEGIN-JSD-1
+Title:			failingsocket - programmable failing TCP and UDP sockets
+Version:		0.2.1
+Date:			2008-05-04
+Description:		Installs a SocketImplFactory that makes it possible to
+			make sockets fail.  Invaluable for testing
+			network robustness.
+Java-Type:		Library
+Keywords:		programming, network
+Author:			Sverre H. Huseby
+Author-Mail:		shh@thathost.com
+Author-URL:		http://shh.thathost.com/
+Primary-URL:		http://shh.thathost.com/pub-java/
+Required-Java-Version:	1.5.x
+Copying-Policy:		Freeware, Open Source
+Source-Included:	Yes
+END-JSD

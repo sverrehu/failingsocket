@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project>
+    <body>
+        <menu>
+            <item name="Introduction" href="index.html" />
+            <item name="Download" href="http://shh.thathost.com/pub-java/#failingsocket" />
+        </menu>
+        <menu ref="reports">
+        </menu>
+    </body>
+</project>
